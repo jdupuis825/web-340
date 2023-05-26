@@ -4,7 +4,7 @@ For assignments in WEB-340
 # WEB 340 Node.js
  
 ## Contributors
-* Richard Krasso
+* Professor Robert Kumar
 * Jocelyn Dupuis
 
 
